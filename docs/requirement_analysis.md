@@ -1,0 +1,11 @@
+University
+===========
+name
+logo
+info
+features
+courses
+colleges
+established
+website
+address
